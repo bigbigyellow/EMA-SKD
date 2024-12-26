@@ -1,5 +1,9 @@
 # EMA-SKD
-Implementation of EMA-SKD
+Pytorch Implementation of EMA-SKD
+
+Your can download the ImageNet Dataset from Internet.
+We recommend you use anaconda or other virtual environment management tools. 
+If you encounter some python libraries missing, you can directly use pip install to install them in your environment.
 
 how to use:
 
